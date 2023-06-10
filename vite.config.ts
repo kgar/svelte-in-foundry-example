@@ -14,7 +14,7 @@ export default defineConfig({
     rollupOptions: {
       output: {
         globals: {
-          svelte: "Svelte",
+          svelte: "svelte",
         },
       },
     },

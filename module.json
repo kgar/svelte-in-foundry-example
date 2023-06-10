@@ -7,8 +7,8 @@
     "verified": "11"
   },
   "description": "Can we get away with it?",
-  "esmodules": ["dist/app.js"],
-  "styles": ["dist/styls.css"],
+  "esmodules": ["dist/svelte-in-foundry.js"],
+  "styles": ["dist/style.css"],
   "languages": [
     {
       "lang": "en",
