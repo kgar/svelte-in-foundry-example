@@ -1,0 +1,19 @@
+{
+  "id": "svelte-in-foundry",
+  "title": "Svelte in Foundry",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Can we get away with it?",
+  "esmodules": ["dist/app.js"],
+  "styles": ["dist/styls.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ]
+}
